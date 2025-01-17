@@ -1,19 +1,17 @@
 {
-    "name": "Skeleventy",
-    "url": "https://skeleventy.netlify.app",
+    "name": "Teamlanes",
+    "url": "https://teamlanes.com",
     "author": {
-        "name": "Mill Burray",
-        "handle": "@joe_dyer1"
+        "name": "Jesse Lawson",
+        "handle": "@jesse.lawsonry.com"
     },
     "images": {
         "favicon": "/favicon.png",
         "favicon_svg": "/favicon.svg",
-        "apple_touch_icon": "/images/meta/apple-touch-icon.png",
-        "twitter": "/images/meta/twitter.jpg",
-        "og": "/images/meta/og.jpg"
+        "apple_touch_icon": "/images/meta/apple-touch-icon.png"
     },
     "social_links": {
-        "github": "https://github.com/josephdyer/skeleventy",
-        "twitter": "https://twitter.com/joe_dyer1"
+        "github": "https://github.com/jesselawson",
+        "bluesky": "https://bsky.app/profile/jesse.lawsonry.com"
     }
 }
